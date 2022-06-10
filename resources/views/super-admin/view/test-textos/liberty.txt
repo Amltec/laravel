@@ -1,0 +1,228 @@
+DADOS DO(A) PROPONENTE
+Nome do(a) Proponente/Segurado(a) CPF/CNPJ
+LEONIR VICENTE 443.953.969-68
+RG Órgão Emissor Data da Emissão Data de Nascimento
+5248019 SSP 02/07/2002 09/07/1962
+Sexo Estado Civil Profissão
+Masculino CASADO Promotor de vendas
+Endereço Bairro CEP
+RUA ESPANHA ED NEUHAUS , 51 APTO 701 IMIGRANTES 89120-000
+Cidade UF Telefone Celular E-Mail
+TIMBO SC (47) 33826062 (47) 999802456 LEOVENDAS@TPA.COM.BR
+Endereço de correspondência CEP
+RUA ESPANHA ED NEUHAUS , 51 APTO 701 - IMIGRANTES - TIMBO - SC 89120-000
+O kit de sua apólice/endosso será enviado para o e-mail indicado nesta proposta.
+DADOS DO CORRETOR
+Corretor Telefone
+MARCONCINI CORRETORA DE SEGUROS LTDA (47) 33125500
+Cód. LS Cód. Estabelecimento Cód. SUSEP Participação (%)
+99009900 0001 202064707 100
+DEMONSTRATIVO DE PRÊMIO
+Prêmio Líquido (R$) Custo de Apólice (R$) Adic. Frac. (R$) IOF (R$) Prêmio Total (R$) Juros(%)
+4.374,02 0,00 322,80 4.696,82 0,00
+FORMA DE PAGAMENTO - Periodicidade Mensal
+Tipo de Cobrança Banco Nº Agência Nº Conta-Corrente Valor (R$)
+1+9(CC) - CARTÃO DE CRÉDITO 469,68
+Dia Preferencial para Pagamento Nº Teleoc / Nº Cartão de Crédito
+XXXX.XXXX.XXXX.3011 - VISA - 3/2028
+ATENÇÃO:
+1.Os valores expressos nesta proposta, independentemente da oferta de garantia ou cobertura, estão expressos em Reais,
+têm validade de 10 (dez) dias corridos, e podem sofrer alteração até a data de efetivação.
+2.O simples recebimento de prêmio a título de pagamento à vista ou adiantamento da 1ª parcela não implica em aceitação do
+risco proposto.
+3.Em caso de atraso no pagamento de qualquer parcela, ficará o Segurado sujeito ao pagamento de multa moratória
+correspondente a 2% (dois por cento) sobre o valor devido, atualizado monetariamente com base na variação do IPCA
+(Índice de Preços ao Consumidor Ampliado), acrescido de juros legais de 1% (um por cento) ao mês, sendo este último
+encargo aplicado pro-rata temporis, podendo ser cobrado ainda o valor de R$ 50,00 a tÍtulo de despesas operacionais.
+Em conformidade com os termos que regem as Condições Gerais deste seguro, fica entendido e acordado que:
+I - A falta de pagamento da primeira parcela implicará no automático cancelamento da apólice, desde o início da vigência.
+II – A falta de pagamento de qualquer uma das demais parcelas subsequentes á primeira poderá implicar no automático
+cancelamento da apólice, observados os termos da Cláusula de Fracionamento de Prêmio constante das Condições Gerais
+do seguro.
+III - Findo o novo prazo concedido para pagamento, nos termos da Cláusula de Fracionamento de Prêmio, sem que tenha
+sido efetuado o pagamento da parcela, operar-se-á de pleno direito a rescisão do contrato de seguro, com consequente
+cancelamento da apólice.
+LIBERTY AUTO PERFIL
+Proposta
+Proposta Nº Vigência Filial
+491594475 28/02/2022 a 28/02/2023 BLUMENAU
+Liberty Seguros S/A CNPJ 61.550.141/0001-72 - Cód. SUSEP: 518-5 Processos SUSEP Nºs. 15414.100331/2004-96 / 15414.901089/2015-23 e 15414.100428/2004-07
+Criado por: marconci - 28/2/2022 Atualizado por: PRODUCAO - 28/2/2022
+1 / 5
+ITEM 1 - DADOS DO VEICULO SEGURADO
+Código FIPE Marca/Tipo do Veículo Ano Fabricação/Modelo
+005470-4 AMAROK HIG. EXTREME CD 2.0 4X4 DIES. AUT 2017/2018
+Chassi Placa Capacidade Categoria
+WV1DB22H7JA010827 QIU9889 5 22 - PICK-UP`S PESADAS PESSOAS NAC.
+Utilização Reg. Tarif./CEP Pernoite Tipo Franquia Cód. de Vistoria
+PARTICULAR 500 / 89120 0.5 - FACULTATIVA DISPENSADA DE VP
+Antifurto Gravame/Alienação Isenção Fiscal
+NÃO POSSUI Não
+Renova Apólice Nº/Cia Vigência Cód. Ident.(CI)
+0351371/1 - (517) ALLIANZ SEGUROS S.A (5177) (SEM
+SINISTRO)
+28/02/2021 - 28/02/2022 51721077202859
+Classe de Bônus Desconto Promocional (R$) Desconto Especial Coeficiente
+10 0,00 0
+DADOS DO SEGURO/COBERTURA
+Coberturas Contratadas LMI (R$) Prêmio (R$) Franquia (R$)
+BASICA - 01-COMPREENSIVA VMR FIPE x 100% 2.236,48 7.470,05
+RESP CIVIL FACULTATIVA VEÍCULOS - DANOS MATERIAIS 500.000,00 383,11 0,00
+RESP CIVIL FACULTATIVA VEÍCULOS - DANOS CORPORAIS 900.000,00 214,28 0,00
+RESP CIVIL FACULTATIVA VEÍCULOS - DANOS MORAIS 100.000,00 209,13 0,00
+ACIDENTES PESSOAIS PASSAGEIROS - MORTE 30.000,00 138,52 0,00
+ACIDENTES PESSOAIS PASSAGEIROS - INVALIDEZ
+PERMANENTE
+30.000,00 138,52 0,00
+CARTA VERDE - DANOS MATERIAIS US$ 20,000.00 1,00 0,00
+CARTA VERDE - MORTE E/OU DANOS PESSOAIS US$ 40,000.00 1,00 0,00
+CARRO RESERVA OU DESC.FRQ - DES FRQ 15 DIAS MEDIO /
+DES FRQ 30%
+0,00 258,54 0,00
+CARRO RESERVA TERCEIROS - 7 DIAS BÁSICO TERCEIRO 0,00 32,46 0,00
+LIBERTY ASSISTÊNCIA - SUPERIOR 0,00 296,54 0,00
+LIBERTY VIDROS - SUPERIOR 0,00 464,45 0,00
+INFORMAÇÕES COMPLEMENTARES
+Carro Reserva padrão básico por 7 dias para Terceiros.
+Carro reserva padrão médio por 15 dias ou 30,00% de desconto na Franquia, limitado a R$ 800,00, em caso de Perda
+Parcial, com livre escolha de oficinas.
+LIBERTY VIDROS SUPERIOR - Franquia Para-brisa R$360,00 / Vigia R$225,00 / Laterais R$100,00 / Retrovisores
+R$860,00 / Farois R$225,00 / Lanternas R$170,00 / Retrovisores LED R$370,00 / Reparo de Para-choque R$120,00 /
+SRA- Servico de Reparos em Pintura R$70,00 / SRA Plus - Servico de Reparos para Amassados - R$300,00 para o
+teto e R$ 80,00 para demais pecas / Farol Auxiliar R$145,00 /Farois de LED ou Xenon R$2.150,00 / Maquina de Vidros
+R$80,00 / Lanternas LED R$630,00 - Cobertura LED e Xenon somente quando ORIGINAIS DE FABRICA (0800 701
+4120)
+LIBERTY ASSISTÊNCIA - SUPERIOR (0800 701 4120)
+LIBERTY AUTO PERFIL
+Proposta
+Proposta Nº Vigência Filial
+491594475 28/02/2022 a 28/02/2023 BLUMENAU
+Liberty Seguros S/A CNPJ 61.550.141/0001-72 - Cód. SUSEP: 518-5 Processos SUSEP Nºs. 15414.100331/2004-96 / 15414.901089/2015-23 e 15414.100428/2004-07
+Criado por: marconci - 28/2/2022 Atualizado por: PRODUCAO - 28/2/2022
+2 / 5
+ATENÇÃO:
+É livre a escolha de oficinas. Benefício - desconto de 10% na franquia (limitado a R$450,00), se utilizada oficina indicada pela
+Liberty no momento do sinistro.
+O presente seguro prevê, entre outros, que em caso de sinistro, o veículo segurado poderá ser reparado com "PEÇAS
+ORIGINAIS (peças contidas originalmente no veículo quando ele sai da fábrica) e/ou PEÇAS DE REPOSIÇÃO ORIGINAIS
+(peças produzidas pelo mesmo fabricante da peça original, através do mesmo processo de fabricação e com as mesmas
+especificações técnicas)". Para os itens de segurança, assim considerados o sistema de freios, o sistema de controle de
+estabilidade, as peças de suspensão, o sistema de air bags, os cintos de segurança e seus subsistemas, o sistema de
+direção, serão utilizadas "PEÇAS ORIGINAIS" (são as peças contidas originalmente no veículo quando ele sai da fábrica).
+DADOS DO PERFIL
+Nome do Principal Condutor Estado Civil Data de Nascimento Idade Sexo
+LEONIR VICENTE Casado/Uniao Estavel 09/07/1962 59 Masculino
+CPF Condutor Vínculo c/ Segurado Uso do Veículo para Prest Serv ou Visitas
+443.953.969-68 Próprio segurado Sim
+Residente 18/24 anos Sexo da(s) Pessoa(s) Residente(s)
+Não Não se aplica
+Deseja estender cobertura p/ residentes habilitados com idade 18 a 24 anos?
+Não se aplica
+DADOS DO PROPRIETÁRIO
+Nome CPF/CNPJ
+LEONIR VICENTE 443.953.969-68
+Data de Nascimento Idade Sexo Vínculo c/ Segurado
+09/07/1962 59 Masculino Próprio segurado
+OBSERVAÇÕES
+Veículo Dispensado de vistoria prévia.
+1. Definições:
+1.1 Valor de Mercado Referenciado: garante ao Segurado, em caso de Indenização Integral, o pagamento de quantia
+variável, em moeda corrente nacional, determinada de acordo com a tabela referência (FIPE, publicada no jornal Valor
+Econômico; ou, na falta desta, Molicar, publicada na revista Carro), conjugada com o fator de ajuste escolhido e indicado
+nesta proposta, para utilização no cálculo do valor a ser indenizado na data da ocorrência do sinistro (quando houver item
+com opção pelo VMR) OU Valor Determinado: garante ao Segurado, quando caracterizada a Indenização Integral do veículo
+sinistrado, o pagamento da quantia estipulada no ato desta contratação. (quando houver item com opção pelo VD)
+1.2 Garagem: não são considerados garagem: recuos e pátios; áreas de estacionamento abertas ou protegidas apenas por
+correntes, cabos e similares; ruas fechadas e protegidas por guaritas/vigias; garagens individuais onde o uso da vaga é
+alternado (domicílio com 2 ou mais veículos e uma só vaga de garagem) etc.
+1.3 CEP de Pernoite: refere-se ao endereço onde o veículo permanece habitualmente estacionado durante a noite.
+2. Coberturas:
+2.1 Após a transmissão eletrônica da presente proposta, o Corretor tem um prazo máximo de 5 (cinco) dias para protocolar a
+via impressa e devidamente assinada na Liberty, caso a impressão da mesma seja obrigatória, sob pena de não ser iniciado
+o processo de análise para aceitação do risco. Quando dispensada a entrega, a proposta deve ser impressa, assinada e
+mantida em arquivo do Corretor para fins de eventuais consultas.
+2.2 A Liberty dispõe legalmente de 15 (quinze) dias contados da transmissão ou do protocolo da proposta física, o que
+ocorrer primeiro, para análise e aceitação do risco. Se o seguro não for aceito, a cobertura será garantida por um prazo de 72
+horas contadas a partir da devolução da proposta, desde que o evento se encontre amparado pelas Condições Gerais do
+produto, o sinistro seja considerado como regular por nossos analistas e o risco esteja dentro de nossa política de aceitação
+em vigor.
+3. Informações Gerais:
+3.1 A aceitação da proposta de seguro está sujeita à análise do risco.
+LIBERTY AUTO PERFIL
+Proposta
+Proposta Nº Vigência Filial
+491594475 28/02/2022 a 28/02/2023 BLUMENAU
+Liberty Seguros S/A CNPJ 61.550.141/0001-72 - Cód. SUSEP: 518-5 Processos SUSEP Nºs. 15414.100331/2004-96 / 15414.901089/2015-23 e 15414.100428/2004-07
+Criado por: marconci - 28/2/2022 Atualizado por: PRODUCAO - 28/2/2022
+3 / 5
+3.2 O registro do produto é automático e não representa aprovação ou recomendação por parte da Susep.
+3.3 O segurado poderá consultar a situação cadastral do corretor de seguros e da sociedade seguradora no sítio eletrônico
+www.susep.gov.br.
+3.4 Para informações adicionais ou esclarecimento de dúvidas, entre em contato com seu Corretor de seguros ou, se preferir,
+utilize nosso canal de comunicação com o Segurado(a): faleconosco@libertyseguros.com.br.
+Caso não fique satisfeito com a solução do nosso time de atendimento, poderá recorrer a Ouvidoria.
+O Grupo Liberty Seguros atua com Ouvidor independente e com autonomia de decisão. O regulamento da Ouvidoria está
+disponível no site www.libertyseguros.com.br, onde também é possível postar seu recurso. Se preferir, o recurso também
+poderá ser feito pelo telefone 0800-740-3994 ou ainda por carta, para a Rua Dr. Geraldo Campos Moreira, nº 110 - São
+Paulo/SP – CEP 04571-020 – a/c Ouvidoria.
+3.5 As Partes concordam que o presente documento poderá ser assinado por qualquer meio legalmente admitido, podendo
+ser firmado inclusive por meios eletrônicos, ainda que não se utilize de certificado digital emitido no padrão ICP-Brasil;
+admitindo como válido, para todos os fins e assumindo cada Parte a responsabilidade por adotar as medidas necessárias
+para garantir a autenticidade e a preservação de seu conteúdo.
+3.6 O Grupo Liberty Seguros está aderente ao previsto na legislação vigente sobre proteção de dados pessoais, LEI Nº
+13.709 de 14/08/2018, garantindo tratamento adequado aos seus dados, conforme previsto na Política de Privacidade do
+Grupo, disponível no site www.libertyseguros.com.br, por meio da qual você poderá saber mais detalhes sobre o tratamento,
+bem como seus direitos como titular dos dados. Você poderá ainda entrar em contato conosco pelo e-mail:
+dpo@libertyseguros.com.br.
+DECLARAÇÕES
+CORRETOR:
+Declaro que apresentei ao Segurado as Condições Gerais do Seguro e que o mesmo está ciente de seu conteúdo, bem
+como das informações lançadas na presente proposta.
+Declaro, como Corretor nesta contratação, que, na forma da legislação vigente, dei cumprimento integral às disposições
+contidas na Resolução CNSP nº 382/2020, inclusive quanto à prévia disponibilização ao proponente das informações
+previstas no art. 4º, § 1º, da referida Resolução.
+SEGURADO:
+Estou ciente de que a inadimplência de quaisquer das parcelas do prêmio no seu vencimento implicará na suspensão
+imediata das coberturas contratadas, observados os termos da Cláusula de Pagamento e Fracionamento de Prêmio das
+Condições Gerais do Seguro.
+Declaro não ser ou ter relacionamento com Pessoas Politicamente Expostas Estrangeiras, de acordo com os termos da
+circular 445/2012.
+Declaro estar ciente ser responsabilidade do intermediário de seguro atender ao previsto na Resolução CNSP 382/20, no que
+se refere ao relacionamento com o cliente, especialmente sobre as informações que devem ser disponibilizadas antes da
+aquisição do produto de seguro, tendo sido a mim prestadas todas as informações necessárias. Declaro estar ainda ciente de
+que, havendo alguma nova dúvida, poderei contatar o intermediário do meu seguro.
+Declaro que as informações constantes nesta proposta foram por mim prestadas e, em sendo apurada qualquer divergência
+nas informações que serviram de base para a taxação do risco, por omissão ou incorreção desses dados, estou ciente que
+poderei perder o direito a uma eventual indenização, nos termos previstos no Código Civil Brasileiro e na legislação
+pertinente.
+Declaro ainda estar ciente de que todos os dados e informações relacionados ao presente seguro - inclusive os que digam
+respeito a sinistros, ocorrências e reclamações de prejuízos - serão incluídos, pela Seguradora, em bancos de dados que
+poderão ser consultados para fins de análise de riscos e de liquidação de processos de indenização, podendo ainda a
+Seguradora estender as consultas a bancos de dados de entidades de perfil de crédito e proceder o registro dessas
+consultas junto às referidas entidades.
+Estou ciente que, caso o veículo segurado possua módulo de geolocalização de fábrica, autorizo expressamente que esta
+CIA. Seguradora acione sua utilização em caso de furto/roubo.
+Estou ciente também que, em caso de sinistro indenizável com o veículo segurado, a indicação da oficina
+responsável pelos reparos é de minha livre escolha ; contudo, terei direito ao benefício de 10% de desconto na franquia
+somente na hipótese de optar pela utilização de uma das oficinas indicadas pela Liberty para execução dos reparos.
+LIBERTY AUTO PERFIL
+Proposta
+Proposta Nº Vigência Filial
+491594475 28/02/2022 a 28/02/2023 BLUMENAU
+Liberty Seguros S/A CNPJ 61.550.141/0001-72 - Cód. SUSEP: 518-5 Processos SUSEP Nºs. 15414.100331/2004-96 / 15414.901089/2015-23 e 15414.100428/2004-07
+Criado por: marconci - 28/2/2022 Atualizado por: PRODUCAO - 28/2/2022
+4 / 5
+Declaro ainda estar ciente de que as Condições Gerais do Seguro em questão encontram-se disponíveis para consulta no
+site institucional da Seguradora (www.libertyseguros.com.br), e que posso solicitar a qualquer tempo sua versão impressa à
+Central de Atendimento Liberty Seguros, conforme orientação do meu Corretor.
+TIMBO , 28/02/2022 ______________________ ______________________
+Local e Data Segurado Corretor
+LEONIR VICENTE MARCONCINI CORRETORA
+DE SEGUROS LTDA
+LIBERTY AUTO PERFIL
+Proposta
+Proposta Nº Vigência Filial
+491594475 28/02/2022 a 28/02/2023 BLUMENAU
+Liberty Seguros S/A CNPJ 61.550.141/0001-72 - Cód. SUSEP: 518-5 Processos SUSEP Nºs. 15414.100331/2004-96 / 15414.901089/2015-23 e 15414.100428/2004-07
+Criado por: marconci - 28/2/2022 Atualizado por: PRODUCAO - 28/2/2022
+5 / 5

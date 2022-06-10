@@ -1,0 +1,305 @@
+Zurich Automóvel Individual
+Proposta de Seguro Pessoa Física
+Cálculo:
+Data transmissão:
+Término de vigência: 24 Horas deInício de vigência: 24 Horas de
+Filial:
+Data e Hora do cálculo:
+Certificado: Item:
+Apólice Master:
+Proposta:
+Vistoria:
+Operação:
+1519352601 07/03/2022 17:11
+Emissão da apólice
+062 - Filial Juiz de Fora 326268461
+659447126 0
+09/03/2022 09/03/2023
+07/03/2022
+Cod. Identificação do bônus:
+A apólice anterior foi cancelada por falta de pagamento?
+Sinistro apólice anterior:
+Item:Apólice anterior:Suc:
+Cia anterior:
+Fim vigência apl. ant.:
+Renovação:
+Dados da Apólice Anterior
+CONGÊNERE  HDI - HANNOVER INTERNATIONAL SA
+65721004210580
+0 1
+09/03/2022 Não
+Não
+CPF:
+Documento de Identificação:
+Número:
+Nome completo:
+Estado Civil:
+Natureza:
+Complemento:
+Residencial:
+Data de expedição:
+Sexo:Data de nascimento:
+Endereço:
+Cidade:
+Telefone(s): Comercial:
+Celular:
+Bairro:
+UF:
+E-mail:
+Profissão:
+CEP:
+Faixa de renda: R$
+Dados do Proponente
+Endereço de Correspondência:
+Rua Doutor Pedro de Aquino Ramos
+106 Ap 603
+Granbery
+Juiz de Fora MG
+36010-440
+3288680260 3288680260
+32988038531 isaac.elias@ifsudestemg.edu.br
+OUTRAS (ESCLARECER)
+Proponente
+0,00
+FABIOLA VIEIRA PEREIRA
+09213205740 01/03/1982 Feminino
+09213205740
+CPF 13/07/2016
+Casado(a)
+PÁGINA 1 / 5Mod. 70-1-6-Motor-PL&Fleet-Proposal - Janeiro/2022 / MP
+O proponente é um agente público que desempenha ou desempenhou nos últimos 05 anos no Brasil
+ou em outros países, cargo, emprego, funções públicas relevantes, assim como seus representantes,
+familiares ou pessoas de seu relacionamento próximo?
+Nacionalidade: Proponente é um servidor público?Brasileiros Não
+Não
+Renavam:
+Fator de Ajuste:Valor do Veículo: R$ Tabela de Referência:
+Modalidade:
+Dispositivo(s) Antifurto:
+Código Marca:
+Proprietário:
+Dados do Risco
+Chassi:
+Veículo: Ano/Modelo:
+Placa:
+Categoria:
+Combustível:
+Uso do Veículo:
+CEP do Local de Pernoite do Veículo:
+VD. A indenização integral do veículo segurado corresponderá ao valor determinado na apólice.
+VMR. A indenização integral do veículo segurado corresponderá ao valor resultante da aplicação
+do fator de ajuste sobre o valor da cotação constante da tabela de referência FIPE, em vigor na
+data de liquidação do sinistro, conforme publicação do Jornal Valor Econômico ou, na falta desta,
+a tabela Molicar, publicada na revista Carro.
+Código:
+Chassi Remarcado:
+X
+0251828
+30 0689 93YHSR3H5JJ202245
+01139626407FABIOLA VIEIRA PEREIRA
+DUSTER EXPR.1.6 HI-FLEX MEC 2018
+QNP9F49
+34 - UTILITARIOS COMPACTOS
+APENAS LAZER/LOCOMOÇÃO, SEM FINALIDADE COMERCIAL
+36010440
+Nao Possui;
+74.004,00 100 %
+VMR - Valor de Mercado Referenciado
+FIPE
+Não
+Sexo:Nasc:
+Nome Completo:
+CPF:
+Questionário Perfil Condutor Principal
+Estado civil:09213205740 Casado(a)
+FABIOLA VIEIRA PEREIRA
+01/03/1982 Feminino
+Deseja cobertura do seguro para outros condutores habilitados com menos de 25 anos?
+O veículo fica guardado em garagem ou estacionamento fechados quando utilizado para ir ao
+trabalho?
+Qual o tipo de residência do condutor principal?
+O veículo fica guardado em garagem ou estacionamento fechados quando utilizado para ir à escola,
+faculdade ou pós-graduação?
+O veículo fica guardado em garagem ou estacionamento fechados no seu local de pernoite?
+Não
+Sim
+Apartamento ou flat
+O veículo não é utilizado para ir à escola, faculdade ou pós-graduação
+Sim, com portão manual
+Importante: O proponente declara que todas as informações prestadas neste
+questionário são verdadeiras e completas, estando ciente que com ele pode conseguir
+bons descontos no valor do seguro, além de influir na aceitação da proposta, e que a
+falsidade, a omissão ou a incorreção destas informações significará a perda do direito ao recebimento
+de qualquer indenização, nos termos da Legislação Civil em vigor.
+Descrição
+Coberturas
+LMG (R$) Franquia (R$) Prêmio (R$)
+Veículo - Colisão/Incêndio/Roubo A - 2.472,00100% FIPE 1.000,39
+RCV - Danos Corporais 200.000,00 132,73
+RCV - Danos Materiais 200.000,00 398,15
+PÁGINA 2 / 5Mod. 70-1-6-Motor-PL&Fleet-Proposal - Janeiro/2022 / MP
+Descrição
+Coberturas
+LMG (R$) Franquia (R$) Prêmio (R$)
+RCV - Danos Morais 60.000,00 26,54
+APP - Acidentes Pessoais de Passageiros 10.000,00 31,62
+Diarias de Carro Reserva - 56,71
+Cobertura Especial para Vidros 2.000,00 76,19
+Vidros Laterais 115,00
+Maquina de Vidros 80,00
+Martelinho (Franquia Teto: R$ 300) 80,00
+Vidro Traseiro 285,00
+Farol Convencional 305,00
+Farol de Xenon/LED 700,00
+Reparo de Para-choque 130,00
+Pelicula 0,00
+Retrovisor Interno 45,00
+Lanterna de LED 215,00
+Para-brisa 220,00
+Lanterna Convencional 150,00
+Retrovisor Externo 110,00
+Reparo de Arranhoes (Franquia 2a. Peca: R$ 10) 50,00
+Farois Auxiliares 80,00
+Assistência 24 horas -  -
++Serviços Adicionais: 223,42
+Km de Reboque ilimitado
+Carro reserva em caso de pane
+Descrição
+Cláusulas
+54 - DANOS MORAIS
+73 - VIDROS VIP
+75 - CARRO RESERVA 30 DIAS - LMG R$ 50,00 (DIÁRIA)
+83 - ASSISTÊNCIA 24 HS VIP 200 Km / Caminhões: 400 Km
+Classe de Bônus:5
+Prêmio Líquido com Desconto: R$Desconto Zurich Driver: R$
+IOF: R$Adicional de parcelamento: R$ Taxa de juros:
+Número de Parcelas: Prêmio Total: R$Custo de emissão: R$
+Prêmio Líquido: R$
+0,00
+1.722,33
+1.722,33
+0,00
+0,00 0,00%
+1.849,44
+127,11
+10
+Número do documento:
+Forma de Pagamento da Entrada: Valor da Entrada: R$
+Data: Conforme Cartão de Crédito
+184,98Cartao de Credito
+TIA34576583
+PÁGINA 3 / 5Mod. 70-1-6-Motor-PL&Fleet-Proposal - Janeiro/2022 / MP
+Forma pagamento demais parcelas:
+Dia de vencimento das parcelas restantes: Conforme Cartão de Crédito
+Juros de mora:
+Titular do Cartão:
+Número do Cartão: Bandeira:
+Valor das parcelas restantes: R$
+Cartao de Credito
+184,94 0,1667%
+ISAAC SILVA ELIAS
+XXXXXXXXXXXX4474 VISA
+1 - Autorizo a debitar em meu cartão de crédito o valor mensal do prêmio acima identificado, relativo
+ao seguro firmado com a Zurich Minas Brasil Seguros S/A.
+2 - Declaro estar ciente que as parcelas mensais do Seguro somente serão consideradas quitadas
+após a confirmação do pagamento pela operadora do cartão de crédito.
+3 - Em qualquer hipótese, prevalecem as condições previstas na cláusula de PAGAMENTO DE
+PRÊMIOS constantes no manual do Seguro com as condições gerais.
+4 - Os dados de pagamento deste contrato são de minha própria titularidade e estou ciente que em
+caso de restituição ou devolução de prêmio, a eventual conta corrente a ser utilizada,
+obrigatoriamente, será do mesmo responsável pelo pagamento do prêmio, de acordo com a
+regulamentação Susep através da Circular n°445 - Lavagem de Dinheiro.
+5 - A presente autorização poderá ser rescindida, a qualquer tempo, por ambas as partes, mediante
+aviso formal de cancelamento com antecedência de 30 (trinta) dias.
+A seguradora terá prazo de 15 (quinze) dias, a contar do recebimento desta proposta, para
+aceitação do seguro. Em caso de recusa, o valor pago será devolvido, descontando-se o período
+correspondente à cobertura condicional, atualizado conforme legislação. A aceitação da proposta de
+seguro está sujeita à análise do risco.
+-----------------------------------------------------------------------------------------------------------------------------------------
+O proponente declara ter lido e aceito as Condições Gerais do Seguro de Automóveis,
+Responsabilidade Civil Veículos e Acidentes Pessoais de Passageiros.
+Declara também que todas as informações são verdadeiras e completas, estando ciente de que a
+falsidade, a omissão ou a incorreção de informações que possam influir na fixação do prêmio ou na
+aceitação da Proposta (tais como bônus e os dados referentes às características, uso, local de
+circulação e condutor do veículo), significará a perda do direito ao recebimento de qualquer
+indenização, nos termos da Legislação Civil em vigor.
+Nos casos de indenização integral do veículo, a indenização corresponderá ao valor da Tabela de
+Referência, aplicando-se o Fator de Ajuste expresso na apólice. Para veículos zero Km, a indenização
+integral corresponderá ao valor da cotação constante da coluna 0Km da Tabela de Referência, desde
+que o seguro do veículo tenha sido contratado como 0Km, aplicando-se o Fator de Ajuste expresso na
+apólice e que a cobertura do Seguro tenha se iniciado no prazo máximo de 30 (trinta) dias contados a
+partir da data de emissão da Nota Fiscal de aquisição do veículo segurado ou da data de sua saída da
+Concessionária, que trate-se de primeiro sinistro com o veículo segurado e o sinistro tenha ocorrido no
+prazo máximo de 90 (noventa) dias a partir da data de emissão da Nota Fiscal de aquisição do veículo
+segurado em revendedor autorizado pelo fabricante e esteja em vigor a sua garantia.
+Ocorrendo a perda parcial do veículo em eventual sinistro, será de livre escolha do Segurado a oficina
+para sua reparação, desde que esta esteja regularizada junto aos órgãos competentes de acordo com
+a legislação vigente de cada localidade. Os danos também poderão ser reparados por oficina
+escolhida pelo Segurado dentro da rede aprovada pela Seguradora de acordo com o modelo/ano do
+veículo, ficando assegurada a garantia da qualidade dos serviços. Se, porventura, o segurado optar
+por oficina fora da rede aprovada e não houver acordo com a Seguradora em relação ao custo dos
+reparos a serem feitos, a Seguradora poderá solicitar a troca de oficina ou pagar somente o valor
+apurado pelo seu regulador. Nesse caso também, será deduzida a franquia correspondente e o valor
+de avarias pré-existentes no veículo, ficando a Seguradora isenta de qualquer responsabilidade pela
+qualidade dos serviços.
+No caso de danos ou avarias parciais sofridas pelo veículo segurado, caso seja passível de reparo, a
+seguradora empregará peças de reposição Genuínas ou originais, que mantenham as especificações
+técnicas exigidas pelo fabricante.
+Ocorrendo qualquer alteração nas declarações prestadas, o Proponente se compromete a
+comunicá-la imediatamente à Seguradora, por escrito, que fica autorizada a cobrar eventuais
+PÁGINA 4 / 5Mod. 70-1-6-Motor-PL&Fleet-Proposal - Janeiro/2022 / MP
+diferenças de prêmio, a qualquer tempo.
+O proponente declara estar ciente, e que expressamente, autoriza a inclusão de todos os dados e
+informações relacionadas ao presente seguro, assim como, de todos os eventuais sinistros e
+ocorrências referentes ao mesmo, em banco de dados, aos quais a seguradora poderá recorrer para
+análise de riscos atuais e futuros e na liquidação de processos de sinistros.
+As condições contratuais deste produto protocolizadas pela sociedade seguradora junto à SUSEP
+poderão ser consultadas no endereço eletrônico www.susep.gov.br, de acordo com o número de
+processo constante da proposta, através do link:http://www.susep.gov.br/menu/consulta-de-
+produtos-1.
+Zurich Minas Brasil Seguros S/A - CNPJ: 17.197.385/0001-21 - Código de Registro Susep 05495 -
+Autorizada pelo decreto n.º 3297 de 24/11/1938 - Avenida Getúlio Vargas, 1.420 - 5.º andar -
+Funcionários - BH - MG - CEP 30112-021.
+Produto registrado na SUSEP sob n°. 14414.001150/2001-88. O registro do produto é automático e
+não representa aprovação ou recomendação por parte da SUSEP.
+O segurado poderá consultar a situação cadastral do corretor de seguros e da sociedade seguradora
+no sítio eletrônico www.susep.gov.br.
+-----------------------------------------------------------------------------------------------------------------------------------------
+Pagamento CO: Fluxo
+Código do corretor: SUSEP:271039 202057885
+Corretor: HF SIDE ADM E CORRETORA DE SEGUROS
+Declaro, como Corretor nesta contratação, que, na forma da legislação vigente, dei cumprimento
+integral às disposições contidas na Resolução CNSP n° 382/2020, inclusive quanto à prévia
+disponibilização ao proponente das informações previstas no art. 4°, § 1°, da referida Resolução.
+Assinatura(s) do(s) corretor(es):
+Declaro, como Proponente nesta contratação, que, na forma da legislação vigente, recebi todas as
+informações obrigatórias contidas na Resolução CNSP n° 382/2020, inclusive quanto à prévia
+disponibilização das informações previstas no art. 4°, § 1°, da referida Resolução.
+O proponente e/ou seu representante devidamente autorizado, reconhece que, ao preencher esta
+proposta com fornecimento das informações nela constante, concorda que os dados pessoais e/ou de
+saúde serão usados e analisados pela SEGURADORA para aceitação ou não do risco, e sendo
+estabelecido o contrato de seguro, esses dados poderão ser usados em modelos estatísticos das
+empresas, bem como para o fim único da execução do contrato de seguro, sendo que ditas
+informações poderão ser compartilhadas com empresas que ajudem no cumprimento do contrato de
+seguro. Os dados do CLIENTE serão guardados com todo zelo e cuidado, e mantidos pelo prazo
+previsto pelo Regulador de Seguros.
+Assinatura do proponente:
+Data:
+Local: Belo Horizonte
+07/03/2022
+12
+01
+20
+22
+12
+52
+ 7
+/0
+3/
+20
+22
+17
+:1
+1:
+49
+PÁGINA 5 / 5Mod. 70-1-6-Motor-PL&Fleet-Proposal - Janeiro/2022 / MP

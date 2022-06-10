@@ -1,0 +1,21 @@
+runtime: php
+env: flex
+
+runtime_config:
+ document_root: public
+
+
+skip_files:
+ .env
+
+
+env_variables:
+ APP_LOG: errorlog
+ APP_KEY: base64:lbeNmzN3WlGn16KNDIus2LzGgadBC8qWtHXSTDT2yhM=
+ STORAGE_DIR: /tmp
+ DB_CONNECTION: mysql
+ DB_HOST: mysql.robo.aurlweb.com.br
+ DB_PORT: 3306
+ DB_DATABASE: robo
+ DB_USERNAME: robo
+ DB_PASSWORD: 0a932mi9xz3n

@@ -1,0 +1,254 @@
+Proposta de Seguro
+Proposta nº
+29582896 0das 24 horas do dia 08/02/2022 às 24 horas do dia 08/02/2023
+Vigência do Seguro Retificadora
+0114
+Sucursal
+CASCAVEL MERC
+Código
+Seguradora: Bradesco
+Auto/RE Cia de Seguros Cód.
+CNPJ: 92.682.038/0001-00
+Produto
+RESIDENCIAL SOB MEDIDA
+CASA
+15414.901163/2017-73 927 42
+531-2
+Registro do
+Produto na SUSEP Cód. Ramo SUSEP: Cód. Ramo Cia: Sub-Ramo:
+644
+Dados do Proponente
+CPF / CNPJNome ou Razão Social Tipo de Cliente
+663.856.289-49CARMEN MARIA ZARO Tradicional(não correntista)
+Número do Documento
+47602521
+Tipo de Documento
+rg
+Orgão Expedidor
+ssppr
+Data da Expedição
+30/09/1986
+Ocupação Profissional
+Administrador
+Renda Mensal
+Nao Deseja Informar
+Endereço de Correspondência
+Logradouro
+Rua Salgado Filho
+Nº
+2993
+CEP
+85810-140
+Complemento
+(DDD)Telefone
+(45) 99984-7666
+Bairro
+Centro
+Cidade
+Cascavel
+UF
+PR
+Dados do Corretor
+Nome do Corretor
+Código CPDCódigo Susep AG. Produtora Inspetoria
+MASTER VOIGT - CORRETORA DE SEGU
+18
+Código Seg.
+1,309742615200000202027241
+Dados do Local de Risco 1
+Objeto do Seguro Valor em Risco (R$)
+Tipo do Imóvel
+180.000,00
+Casa / Habitual
+Prédio / Conteúdo
+Logradouro Nº
+Bairro Cidade
+CEP
+UF
+RubricaLOC
+Rua Salgado Filho
+Centro
+299385810-140
+Cascavel PR
+379.011033.001.004
+Complemento
+CASA
+Apólice Anterior:  644.927.531.132298
+Coberturas e Limites Máximos de Garantia por Cobertura Contratada - LMGCC
+Cobertura Código
+Cobertura
+LMGCC(R$)Desconto
+Experiência
+Prêmio
+Liquido (R$)
+Data do último cálculo: 04/02/2022 às 11:18 - Amb.: 01 - Corretor - Versão: 3.03 Data da última efetivação: 08/02/2022 às 17:09 - Amb.: 01 - Corretor - Versão: 3.03
+Data da transmissão: 08/02/2022 às 16:09 - Amb.: 01 - Corretor - Versão: 3.03 Data da impressão: 08/02/2022 às 16:09
+Página 1
+Proposta 	Nº: 29582896
+Ambiente Inicial: 01 - Corretor Versão Inicial: 3.03
+Proposta de Seguro
+180.000,0060 mesesBasica 00 362,61
+6.000,0060 mesesMoradia Temporaria
+P.I. 6 MESES
+01 1,32
+30.000,0060 mesesVendaval, Furacao, Ciclone, Tornado, Granizo, Neve e
+Geada
+03 74,18
+6.000,0060 mesesDanos Eletricos 04 65,70
+3.000,0060 mesesVidros, Marmores, Granitos e Porcelanato 07 15,50
+10.000,0060 mesesResponsabilidade Civil Familiar 12 1,89
+Somatório dos Limites Máximos das Coberturas e Prêmio 235.000,00 521,20
+Cláusulas Ratificadas
+203 - Fidelidade (seguro Direto)
+205 - Experiencia
+219 - Declaracao de Condicao I
+Ratificam-se os termos das seguintes condições e cláusulas:
+Condições Gerais e Condições Especiais das Coberturas Contratadas do Bradesco Seguro Residencial
+Franquias / Participação do Segurado
+Cobertura Código
+Cobertura
+POS
+(%Prejuízo)
+Mínimo
+(R$)
+Máximo
+(R$)
+(a)00 (a)  -Basica
+01 Não Há  -Moradia Temporaria
+P.I. 6 MESES
+1003 570,00  -Vendaval, Furacao, Ciclone, Tornado, Granizo, Neve e
+Geada
+1004 615,00  -Danos Eletricos
+07 150,00  -Vidros, Marmores, Granitos e Porcelanato
+12 Não Há  -Responsabilidade Civil Familiar
+(a) Incêndio, Queda de Raio, Explosão ou Implosão, Recomposição de Documentos e Tumultos, Greves e Lockout
+= Não há / Fumaça, Queda de Aeronaves e Impacto de Veículos = 10% dos prejuízos c/ mín. de R$ 460,00.
+Descontos
+Fidelidade: Comercial:Bradesco 2 anos Não
+QAR - Questionário de Avaliação de Risco
+A RESIDENCIA POSSUI ESCRITORIO PARA EXERCICIO DE ATIVIDADE PROFISSIONAL? Não
+A RESIDENCIA POSSUI ATIVIDADE COMERCIAL, EXCETO ESCRITORIO? Não
+Benefícios do Produto
+Local de Risco 01 - PLANO ECO PREMIUM
+Data do último cálculo: 04/02/2022 às 11:18 - Amb.: 01 - Corretor - Versão: 3.03 Data da última efetivação: 08/02/2022 às 17:09 - Amb.: 01 - Corretor - Versão: 3.03
+Data da transmissão: 08/02/2022 às 16:09 - Amb.: 01 - Corretor - Versão: 3.03 Data da impressão: 08/02/2022 às 16:09
+Página 2
+Proposta 	Nº: 29582896
+Ambiente Inicial: 01 - Corretor Versão Inicial: 3.03
+Proposta de Seguro
+Demostrativo do Prêmio em R$
+Custo de Emissão
+Prêmio Tarifa
+Desconto
+521,20
+0,00
+0,00
+Adicional Fracionamento
+Total
+IOF 38,46
+559,66
+0,00
+Forma de Pagamento, Dados da Cobrança e Limite Máximo de Garantia da Apólice
+186,55
+1ª Parcela Demais ParcelasQuantidade de Parcelas Juros
+3 186,562,5%
+Total
+559,66
+Banco Agência Conta Corrente Forma de Pagamento
+Carnê30 dias
+1ª Parcela
+Limite Máximo de Garantia da Apólice (R$) 235.000,00
+ 1.
+ 2.
+ 3.
+ 4.
+A aceitação da proposta de seguro está sujeita à análise do risco.
+O registro do produto é automático e não representa aprovação ou recomendação por parte da SUSEP.
+O Segurado poderá consultar a situação cadastral de seu corretor e da sociedade seguradora no sítio eletrônico
+www.susep.gov.br.
+A aceitação desta proposta está condicionada à análise da inspeção prévia no(s) local(is) de risco(s)
+especificado(s) neste documento, podendo ser recusada em até 15 dias contados a partir da data do protocolo de
+recebimento da proposta pela Seguradora.
+Informações importantes, por favor leia com atenção
+Plano Eco Premium: O Segurado conta com os serviços da Assistência Dia e Noite Residencial, Assistência
+Check-up Residencial, Assistência Informática Residencial, Assistência Eletrodoméstico B&M e com a
+Assistência Sustentável.
+5.
+O pedido de cancelamento, observadas as Condições Gerais do Seguro, será assegurado ao cliente no mesmo
+canal de contratação.
+6.
+As condições contratuais/regulamento deste produto protocolizadas pela sociedade/entidade junto à Susep
+poderão ser consultadas no endereço eletrônico www.susep.gov.br, de acordo com o número de processo
+constante da proposta.
+7.
+Data do último cálculo: 04/02/2022 às 11:18 - Amb.: 01 - Corretor - Versão: 3.03 Data da última efetivação: 08/02/2022 às 17:09 - Amb.: 01 - Corretor - Versão: 3.03
+Data da transmissão: 08/02/2022 às 16:09 - Amb.: 01 - Corretor - Versão: 3.03 Data da impressão: 08/02/2022 às 16:09
+Página 3
+Proposta 	Nº: 29582896
+Ambiente Inicial: 01 - Corretor Versão Inicial: 3.03
+Proposta de Seguro
+Autorização para débito em conta corrente e declarações
+1. A concessão de desconto de experiência, decorre da informação do proponente/corretor lançada no sistema SMB,
+sobre o 'período consecutivo com seguro e sem ocorrência de sinistro', estando sujeito as penalidades previstas na
+Cláusula Particular 205.
+2. Declaro que os bens segurados e/ou local (is) de risco especificado(s) nesta proposta  atende (m) integralmente as
+seguintes condições  :
+Não estão localizados  em áreas desapropriadas pelo Poder Público;
+Não são bens litigiosos, de falidos e/ou concordatários ou pertencentes a massa falida;
+Não são prédios condenados pelas Prefeituras Municipais ou tombados pelo Patrimônio Histórico.
+3. Declaro estar ciente que, sob pena de cancelamento do seguro, a presente proposta e todos os seus anexos que
+dela fazem parte integrante deverão ser entregues na Seguradora, devidamente datados e assinados, em até 10
+dias corridos, após a data de transmissão da proposta.
+4. Com pleno conhecimento e aceitação das Condições Gerais, Condições Especiais das Coberturas Contratadas e
+Cláusulas Particulares do Seguro informados neste documento e seus anexos, proponho a realização do seguro
+especificado na presente, com base nas informações fornecidas, e que estas são verídicas, atualizadas e
+completas. Caso seja constatada alguma informação inverídica, ocorrerá a Perda de Direitos sobre o seguro.
+Ocorrendo o aceite da presente proposta pela Seguradora, comprometo-me, ainda a pagar em dia o prêmio total
+devido.
+5. Declaro que este seguro está sendo adquirido por livre e espontânea vontade, por ser de meu interesse, sem
+qualquer vinculação com outro e/ou operação disponibilizada pelo Banco Bradesco S.A. aos seus clientes.
+6. A Bradesco Auto/RE Companhia de Seguros declara que cumpre toda a legislação aplicável sobre segurança da
+informação, privacidade e proteção de dados, inclusive (sempre e quando aplicáveis) a Constituição Federal, o
+Código de Defesa do Consumidor, o Código Civil, o Marco Civil da Internet (Lei Federal n. 12.965/2014), seu
+decreto regulamentador (Decreto 8.771/2016), a Lei Geral de Proteção de Dados (Lei Federal n. 13.709/2018), e
+demais normas setoriais ou gerais sobre o tema, comprometendo-se a tratar os dados pessoais coletados por meio
+deste instrumento para a sua execução e somente nos estritos limites e finalidades aqui previstos, como
+controlador de dados pessoais ou por meio de seus operadores, nos termos da lei aplicável; ou com o devido
+embasamento legal, sem transferi-los a qualquer terceiro, exceto se expressamente autorizado pelo titular dos
+dados, por este ou outro instrumento ou, ainda, para o cumprimento de obrigação legal ou regulatória ou em caso
+de decisão judicial que obrigue o fornecimento.
+7. Para obter maiores informações sobre como os seus dados pessoais são tratados pela Bradesco Auto/RE
+Companhia de Seguros, consulte o nosso Aviso de Privacidade disponível para consulta em
+https://www.bradescoseguranca.com.br/html/seguranca_corporativa/pf/seguranca-informacao/privacidade.shtm.
+8. Declaro, como Corretor nesta contratação, que, na forma da legislação vigente, dei cumprimento integral às
+disposições contidas na Resolução CNSP nº 382/2020, inclusive quanto à  prévia disponibilização ao proponente
+das informações previstas no art. 4º,  § 1º,  da referida Resolução.
+Data do último cálculo: 04/02/2022 às 11:18 - Amb.: 01 - Corretor - Versão: 3.03 Data da última efetivação: 08/02/2022 às 17:09 - Amb.: 01 - Corretor - Versão: 3.03
+Data da transmissão: 08/02/2022 às 16:09 - Amb.: 01 - Corretor - Versão: 3.03 Data da impressão: 08/02/2022 às 16:09
+Página 4
+Proposta 	Nº: 29582896
+Ambiente Inicial: 01 - Corretor Versão Inicial: 3.03
+Proposta de Seguro
+Local
+Assinatura do Proponente ou Responsável Assinatura do Corretor
+Data
+04/02/2022
+SAC / Ouvidoria
+SAC – Serviço de Atendimento ao Consumidor: 0800 727 9966
+SAC – Deficiência Auditiva ou de Fala: 0800 701 2762
+Ouvidoria: 0800 701 7000
+Ouvidoria - Deficiência Auditiva ou de Fala: 0800 701 7877
+Data do último cálculo: 04/02/2022 às 11:18 - Amb.: 01 - Corretor - Versão: 3.03 Data da última efetivação: 08/02/2022 às 17:09 - Amb.: 01 - Corretor - Versão: 3.03
+Data da transmissão: 08/02/2022 às 16:09 - Amb.: 01 - Corretor - Versão: 3.03 Data da impressão: 08/02/2022 às 16:09
+Página 5
+Proposta 	Nº: 29582896
+Ambiente Inicial: 01 - Corretor Versão Inicial: 3.03
+Proposta de Seguro
+Relação De Corretores Participantes
+CPD Corretor Código SUSEP
+426152 00000202027241MASTER VOIGT - CORRETORA DE SEGU
+Data do último cálculo: 04/02/2022 às 11:18 - Amb.: 01 - Corretor - Versão: 3.03 Data da última efetivação: 08/02/2022 às 17:09 - Amb.: 01 - Corretor - Versão: 3.03
+Data da transmissão: 08/02/2022 às 16:09 - Amb.: 01 - Corretor - Versão: 3.03 Data da impressão: 08/02/2022 às 16:09
+Página 6
+Proposta 	Nº: 29582896
+Ambiente Inicial: 01 - Corretor Versão Inicial: 3.03

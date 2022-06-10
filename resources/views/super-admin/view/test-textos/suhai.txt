@@ -1,0 +1,176 @@
+DADOS DO PROPONENTE
+Nome/Razão Social
+DIEGO HENRIQUE CORREIA PAVANI
+Tipo Pessoa
+Física
+CPF/CNPJ
+06425389990
+Endereço
+RUA ANANAI
+Nº
+62
+Complemento Bairro
+JARDIM ALVORADA
+CEP
+86708220
+Cidade
+ARAPONGAS
+UF
+PR
+País
+Brasil
+Tipo Documento
+RG
+Nº Documento Sexo
+Masculino
+Estado Civil
+Casado/União Estável
+Telefone
+43999278058
+E-Mail
+diego_pavani@hotmail.com
+Nascimento
+05/05/1987
+DADOS DO CORRETOR
+Nome
+CONDOR CORRETORA DE
+SEGUROS LTDA (PR)
+SUSEP
+202055632
+Telefone
+4331723919
+E-Mail
+emissoes@condorcorretora.com.br
+DADOS DA PROPOSTA
+Tipo de Seguro
+Renovação Suhai
+Ramo
+Automóvel
+Versão
+1,00
+Produto
+SUHAI
+Vigência: das 24h de 08/03/2022 às 24h de 08/03/2023
+ITEM 1 - DADOS DO VEICULO SEGURADO
+Marca/Modelo do Veículo
+KAWASAKI/NINJA ZX-6R 600cc
+Código FIPE
+817011-8
+Ano Fabr./Modelo
+2012/2012
+Chassi
+96PZXFR13CFS00757
+Placa
+AYC8347
+Categoria
+Bicicletas Motorizadas, Motocicletas, Motonetas com Reboque ou
+SIDE-CAR, VESPACAR Nacionais
+Utilização
+Particular
+Reg. Tarif./CEP Pernoite
+269/86708220
+Zero KM
+Não
+Cor
+Verde
+Placa Preta
+Não
+Dispositivo Anti-Furto
+Sem Rastreador
+Tipo Instalação Disp.
+Não Aplica
+Apólice Anterior
+1003106312558
+Seguradora Ant.
+SUHAI SEGURADORA S.A.
+C.I.
+49521063125586
+Classe Bônus
+5
+COBERTURAS CONTRATADAS
+Cobertura LMI (R$) Prêmio (R$) Franquia (R$)
+Ind. Integral por Roubo ou Furto do Veículo 100% V.M.R Fipe 327,92
+RCF - Danos Materiais Não Contratado
+RCF - Danos Corporais Não Contratado
+RCF - Danos Morais Não Contratado
+Assistência 24 horas Plano 1 132,76
+DADOS DO PERFIL
+O veículo é guardado em garagem/estacionamento fechado na
+residência?
+Sim, garagem na residência
+Tipo de utilização Locomoção ida-retorno local fixo de
+trabalho/lazer
+Veículo é guardado em garagem/estacionamento fechado quando
+utilizado para ir à faculdade/colégio?
+Não utiliza para ir à faculdade/colegio
+Veículo é guardado em garagem/estacionamento fechado quando
+utilizado para ir ao local de trabalho?
+Utiliza mas não guarda quando em local de
+trabalho/serviços externos
+Respostas incorretas no PERFIL , idade, sexo, estado civil, utilização do veículo podem acarretar a perda
+de direito à indenização em caso de sinistro
+Página 1 de 2
+PROPOSTA DE SEGURO
+SUHAI SEGURADORA S.A
+CNPJ: 16825255000123
+Proposta: 2371192
+Data: 08/03/2022
+ProtocoloEletr: 08032022.001811.0025.0100.0037905.0007.0004.0426.0001393400.T7
+DEMONSTRATIVO DO PRÊMIO
+Prêmio Líquido
+460,68
+Juros (R$)
+0,00
+IOF (R$)
+33,99
+Prêmio Total (R$)
+494,68
+DADOS DE PAGAMENTO
+Forma de Pagamento
+Boleto
+Nº Parcelas
+3
+Valor da Parcela
+164,89
+Valor Total
+494,68
+(1) Ciente e de acordo que, quando contratação com sistema de rastreamento, o início da cobertura do seguro se dará a partir da data/hora da
+efetivação da instalação do sistema de rastreamento. Caso a instalação não seja feita no prazo máximo de 15 dias a contar da data da
+transmissão da proposta para a Seguradora, esta proposta estará automaticamente recusada.
+(2) Declaro também que, quando instalado,  no que couber a minha responsabilidade, manterei o sistema de rastreamento em perfeitas
+condições, sendo que em caso de mau funcionamento, e desde que eu tenha conhecimento do fato, comprometo-me a comunicar imediatamente
+á SUHAI,através do telefone 3003.0335, bem como encaminhar o veículo segurado a um dos pontos indicados por ela para ajuste ou, quando for
+o caso, substituição do sistema.
+(3) Ciente e de acordo que, quando contratação sem sistema de rastreamento, o início da cobertura do seguro se dará a partir da data/hora da
+realização da Vistoria Prévia que seja concluída/aprovada/aceita sem restrições.
+(4) Ciente e de acordo que, quando proposta com pagamento 1.a parcela antecipada, a cobertura será cancelada caso não efetivado o pagamento
+no prazo previsto.
+(5) Declaro estar ciente e expressamente autorizo a inclusão de todos os dados ora fornecidos e informações relacionadas ao presente
+seguro, assim como todos os eventuais sinistros e ocorrências referentes ao mesmo, em banco de dados, inclusive da Seguradora, aos
+quais a Seguradora poderá recorrer para análise de riscos atuais e futuros e na liquidação de sinistros. Ciente de que a aceitação do
+seguro estará sujeita à análise de dados cadastrais, das condições de conservação do veículo e da efetivação de vistoria prévia ou
+instalação de rastreador, quando exigidos.
+(5) O registro deste plano na SUSEP não implica, por parte da Autarquia, incentivo ou recomendação a sua comercialização.
+(6) O segurado poderá consultar a situação cadastral de seu corretor de seguros, no site www.susep.gov.br, por meio do número de
+seu registro na SUSEP, nome completo, CNPJ ou CPF.
+(7) A inadimplência da primeira parcela do seguro implica na recusa desta Proposta de Adesão.
+(8) O corretor de seguro responsável pela intermediação desta contratação tem ciência das suas obrigações previstas na Resolução CNSP nº
+382/2020 e atesta que as cumpriu, inclusive aquelas previstas no artigo 4º, § 1º, da referida Resolução.
+(9) Em caso de cancelamento da cobertura Casco( Seguro Automóvel)  em decorrência de sinistro,  não caberá restituição de prêmio referente as
+demais coberturas, por ter sido concedido desconto de contratação conjugada no prêmio das demais coberturas.
+"O não cumprimento das ações declaradas nesta proposta poderá acarretar a perda de direito á indenização do seguro."
+Estou de acordo com o recebimento de informações pela seguradora por SMS ou através do e-mail cadastrado: Sim ( ) Não ( ).
+
+Cidade _________________, _____ de __________________, de_________.
+
+Assinatura do Proponente ____________________________________________________________
+Suhai Seguradora S/A - CNPJ 16.825.255/0001-23 - Processo SUSEP: 15414.900414/2013-79 - Registro eletrônico de produto SUSEP:
+167860
+Av. Iraé, 523 - CEP 04075-000 - São Paulo-SP.
+Página 2 de 2
+PROPOSTA DE SEGURO
+SUHAI SEGURADORA S.A
+CNPJ: 16825255000123
+Proposta: 2371192
+Data: 08/03/2022
+ProtocoloEletr: 08032022.001811.0025.0100.0037905.0007.0004.0426.0001393400.T7

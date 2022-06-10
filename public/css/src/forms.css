@@ -1,0 +1,157 @@
+/*margens padrões*/
+.padd-form-top{padding-top:7px;}
+
+/*botão de upload*/
+.btn-upload{position:relative;}
+.btn-upload input{position:absolute;width:100%;height:100%;left:0;top:0;opacity:0;}
+.btn-upload.disabled input{display:none;}
+
+/*botão de upload - drag and drop*/
+.uploadzone{background:#E2EEF5;padding:10px;width:100%;height:200px;position:relative;}
+.uploadzone input{width:100%;height:100%;position:absolute;opacity:0;margin:-10px;z-index:9;cursor:pointer;}
+.uploadzone-wrap{width:100%;height:100%;border:2px dashed rgba(0,0,0,0.2);color:rgba(0,0,0,0.4);display:table;}
+.uploadzone-in{display:table-cell;vertical-align:middle;text-align:center;}
+.uploadzone-icon{font-size:70px;margin:0 0 20px 0;}
+.uploadzone-title{font-size:23px;}
+.uploadzone[data-ev=dragenter]{padding:0;background:#fff;}
+.uploadzone[data-ev=dragenter] .uploadzone-in{margin:0;border-color:#367FA9;color:#367FA9;}
+.uploadzone.connect_form{position:absolute;z-index:9999;left:0;top:0;width:100%;height:100% !important;display:none;background:rgba(255,255,255,0.9);}
+.uploadzone.maximize{position:fixed;padding:20px;border:5px solid #3c8dbc;}
+.uploadzone.maximize input{margin:-20px;}
+
+
+/*.select2 - custom style focus*/
+.select2-container *:focus{border-color:#3C8DBC;}
+/*.select2 - correção da largura do campo dentro do form*/
+.form-horizontal .form-group-field-select2{padding-right:30px;}
+/*select2 - correção da largura que as vezes não fica com 100%*/
+.select2-container{width:100% !important;}
+/*custom focus*/
+.form-control:focus,.select2-selection:focus{outline:3px solid #7FBCFF66;}
+.has-error .form-control:focus, .has-error.select2-selection:focus{outline:3px solid #dd4b3922;}
+.btn:focus{outline:5px solid #7FBCFF66;}
+.btn.disabled:focus,.btn.disabled:hover{outline:none;text-decoration:none;}
+/*editor error*/
+.has-error .cke{border:1px solid #dd4b39;outline:3px solid #dd4b3922;}
+
+
+
+
+/*organização de formulários*/
+.form-no-padd .form-block-wrap{padding-right:0;}
+.form-block-wrap{padding-left:0;padding-right:40px;}
+.form-two_column .form-group,.form-horizontal_two_column .form-group{width:50%;float:left;padding:0 15px;}
+.form-three_column  .form-group{width:33.33%;float:left;padding:0 15px;}
+.form-four_column .form-group{width:25%;float:left;padding:0 15px;}
+.form-two_column .form-group:nth-child(odd),
+.form-three_column .form-group:nth-child(3n+1),
+.form-four_column .form-group:nth-child(4n+1),
+.form-horizontal_two_column .form-group:nth-child(odd){padding-left:0;}
+.form-two_column .form-group:nth-child(even),
+.form-three_column .form-group:nth-child(3n+0),
+.form-four_column .form-group:nth-child(4n+0),
+.form-horizontal_two_column .form-group:nth-child(even){padding-right:0;}
+.form-horizontal_two_column .form-group .control-label{float:left;width:25%;}
+.form-horizontal_two_column .form-group .control-div{float:left;width:75%;}
+@media (min-width:780px){ 
+    .form-row .form-block-group{display:table;width:100%;margin:0 -15px;}
+    .form-row .form-group{display:table-cell;padding:0 15px;}
+    .form-row .form-group-button{vertical-align:bottom;}
+}
+@media (max-width:640px){ 
+    .form-two_column .form-group,
+    .form-three_column .form-group,
+    .form-four_column .form-group,
+    .form-horizontal_two_column .form-group .control-label,.form-horizontal_two_column .form-group .control-div,
+    .form-horizontal_two_column .form-group{width:auto;float:none;padding:0;}
+}
+
+/*alerta formulário*/
+.alert-form{margin-top:20px;}
+
+/*validação de formulário*/
+.form-group .help-block{position:absolute;z-index:9;font-size:smaller;margin-top:-1px;}
+.form-group-line .control-label,.form-group-line .control-div{float:none;width:auto;text-align:left;}
+.control-html{margin-bottom:5px;}
+.control-html + .help-block{margin-top:-6px;}
+
+/*barra de filtros*/
+.filter_bar .fix_pos{margin-top:10px;}
+
+/*campos customizados de formulários*/
+.form-group-fields-col-a1{width:calc(100% - 155px);display:inline-block;}
+.form-group-fields-col-a2{width:150px;display:inline-block;}
+.form-group-fields-col-a1 .form-control,.form-group-fields-col-a2 .form-control{width:100%;}
+.form-group.require .control-label:after{content:'*';font-size: smaller;color:#999;margin-left:3px;position:absolute;}
+.form-control > .form-control-in{border:0;border-right:1px solid #e2e2e2;outline:none;margin-right:10px;}
+.form-control.up-field{position:absolute;display:block;height:28px;line-height:28px;margin:3px 0 0 0;}
+.CodeMirror{border:1px solid #ccc;}
+
+
+/*bloco dinâmico*/
+.form-block-group-sep{border-top:1px dotted #ccc;padding-top:20px;padding-bottom:20px;}/*separador*/
+.form-block-dinamic-rlast .j-remove{display:none;}
+.form-block-dinamic-rlast .form-block-last .j-remove{display:block;}
+@media (min-width:640px){
+    .form-block-dinamic-mode-inline .form-block-group .control-label{display:none;}
+}
+@media (max-width:640px){
+    .form-block-head .form-group{margin-bottom:0;}
+    .form-block-head .form-group{display:none;}
+    
+}
+
+
+/*estilização de campo input - modelo 1 (icon + input with bottom border)*/
+.field-sty1{display:inline-block;}
+.field-sty1 > .fa{opacity:0.5;}
+.field-sty1-border{content:'';display:block;height:1px;background:#ddd;}
+.field-sty1 > input{border:none;outline:none;width:calc(100% - 21px);margin:0 0 5px 0;background:transparent;}
+.field-sty1 > input:focus + .field-sty1-border{background:#00C0EF;height:2px;margin-top:-1px;}
+
+/*barra de ferramentas*/
+.ui-toolbar .select2-container{width:100% !important;}
+.ui-toolbar .form-group{width:130px;float:left;padding-right:10px;}
+.ui-toolbar .j-btn-submit{float:left;margin-top:20px;}
+.ui-toolbar .form-group{margin:-5px 0 0 0;}
+.ui-toolbar .form-block-group > .btn{margin-right:10px;float:left;}
+/*barra de ferramentas - modo de linha*/
+.ui-toolbar-line .form-block-group > .form-group{margin-top:0;}
+.ui-toolbar-line .control-label{position:absolute;margin:-15px 0 0 0;z-index:999;font-size:11px;}
+.ui-toolbar-marg-label .form-block-group{margin-top:10px;}
+.ui-toolbar-line .j-btn-submit{float:left;margin-top:0 !important;}
+
+
+/*win upload progress*/
+.box.ui-upload-progress-box{position:fixed;bottom:10px;right:10px;width:350px;z-index:999;}
+.box.ui-upload-progress-box.pos-left{right:auto;left:10px;}
+.box.ui-upload-progress-box .box-body{max-height:250px;overflow:auto;}
+@media (max-width:640px){ 
+    .box.ui-upload-progress-box{bottom:-15px;right:7px;width:calc(100% - 14px);}
+}
+.ui-upload-title-msg{display:block;font-size:12px;}
+
+/*** obs: está funcionando, mas como foi não está sendo utilizado, foi temporariamente desativado ***
+.radial-progress-bar {position: relative;width: 150px;height: 150px;background: lightgrey;border-radius: 50%;}
+.radial-progress-bar .right-half,.radial-progress-bar .left-half,.radial-progress-bar .left-half-mask,.radial-progress-bar .inner-circle {position: absolute;}
+.radial-progress-bar .right-half,.radial-progress-bar .left-half,.radial-progress-bar .left-half-mask {height: 100%;width: 50%;border-radius: 75px 0 0 75px;}
+.radial-progress-bar .right-half,.radial-progress-bar .left-half {background: steelblue;transform-origin: 100% 50%;}
+.radial-progress-bar .left-half-mask {background: lightgrey;}
+.radial-progress-bar .inner-circle {height: 130px;width: 130px;margin: 10px;border-radius: 50%;background-color: white;text-align: center;}
+.radial-progress-bar .inner-circle .percentage{height: inherit;font-family: sans-serif;font-size: 10px;color: steelblue;}
+.radial-progress-bar .left-half {visibility: hidden;}
+*/
+
+
+/*** colorbox ***/
+.aw-colorbox-item{display:inline-block;width:20px;height:20px;margin:2px;cursor:pointer;}
+.aw-colorbox-item div{position:absolute;width:inherit;height:inherit;z-index:1;text-align:center;}
+.aw-colorbox-item:hover div{width:34px;height:34px;z-index:2;border:3px solid #fff;margin:-6px 0 0 -6px;box-shadow:0px 0px 3px rgba(0,0,0,0.3);}
+.aw-colorbox-item:hover .fa{display:block;margin-top:7px !important;}
+.aw-colorbox-item.select div{outline:2px solid #000;}
+.aw-colorbox-item.select .fa{display:block;margin-top:3px;}
+
+
+/*** field uploadbox ***/
+.uploadbox-view .lnk-img-view{display:block;overflow:hidden;position:relative;text-align:center;color:#999;user-select:none;margin-top:3px;}
+.uploadbox-view .lnk-into-fnx1{font-size:0.9em;line-height:140%;margin: 0;position: absolute;top: 50%;left: 50%;-ms-transform: translate(-50%, -50%);transform: translate(-50%, -50%);}

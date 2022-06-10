@@ -1,0 +1,1 @@
+<div class="nav-tabs-custom" style="box-shadow:none;"><div class="tab-content ui-shadow">{{callstr($content??'')}}</div></div>

@@ -1,0 +1,30 @@
+/*** custom skin - (adminLTE - skin-black.min.css) ***/
+.main-header .logo{text-align:left !important;font-size:18px !important;padding-left:50px;color:#b8c7ce !important;}
+.main-header .logo-icon, .account-logo-icon{width:28px;height:28px;line-height:100%;font-size:0;display:block;position:absolute;left:10px;top:10px;overflow:hidden;padding:0 !important;border-radius:5px;}
+.main-header .logo-icon img, .account-logo-icon img{width:inherit;}
+.account-logo-icon{position:relative;left:0;top:0;display:inline-block;}
+.sidebar-collapse .logo{width:50px;padding:0;}
+.sidebar-collapse .logo-icon + .logo-mini,.sidebar-collapse .logo-icon + .logo-lg{display:none !important;}
+@media(min-width:768px){ 
+    .main-header .logo{background:transparent !important;border-right:0 !important;}
+}
+@media(max-width:768px){ 
+    .main-header .logo{background:#222d32 !important;}
+}
+
+
+
+
+
+/*** super-admin custom ***/
+.skin-black.super-admin .main-sidebar{background:#244F68;}
+.skin-black.super-admin .sidebar-menu>li.header{background:#1D3E52;}
+.skin-black.super-admin .sidebar-menu>li.active>a{background:#1D3E52;}
+.skin-black.super-admin .sidebar-menu .treeview-menu{background:#1D3E52;}
+
+
+/*cores adicionais para este tema*/
+.text-teal{color:#30bbbb !important;}
+.text-white{color:#fff !important;}
+.text-white2{color:rgba(255,255,255,0.7);}
+.text-white2.text-hover:hover{color:#fff;}

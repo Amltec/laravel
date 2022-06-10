@@ -1,0 +1,1 @@
+<input type="hidden" {!! !empty($id) ? 'id="'.$id.'"':'' !!} name='{{$name}}' class='{{$class_field??''}}' value="{{ data_get($autodata,$name) ?? $value ?? Form::getValueAttribute($name) ?? '' }}" {!!$attr ?? ''!!} >

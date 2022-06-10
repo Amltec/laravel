@@ -1,0 +1,1 @@
+@include('templates.components.radio',['type'=>'checkbox'])

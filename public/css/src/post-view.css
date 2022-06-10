@@ -1,0 +1,11 @@
+/*** Estilos para a visualização padrão do post ***/
+.postview-menuleft{}
+.postview-content{}
+.post-bt-edit{position:absolute;right:25px;margin:-40px 0 0 0;z-index:9;}
+.post-container{max-width:1300px;xmargin:0 auto;}
+
+
+/*** visualização de conteúdo formatado ***/
+.list-viewer{padding:20px 20px;background:#fff;margin:0 0 10px 0;}
+.viewer{padding:50px 70px;background:#fff;}
+.viewer p{font-size:1.1em;}

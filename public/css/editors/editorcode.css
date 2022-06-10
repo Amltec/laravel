@@ -1,0 +1,12 @@
+/*form*/
+.editorcode-wrap .help-block{margin:5px 0 0 0 !important;}
+.has-error .editorcode-edit{outline:2px solid #dd4b39;}
+
+/*fullscreen*/
+.editorcode-wrap.fullscreen{position:fixed;top:0;left:0 !important;right:0;bottom:0;width:100%;height:calc(100% - 32px);z-index:9900;background:#fff;border:0 !important;}
+.editorcode-wrap.fullscreen .editorcode-edit,.editorcode-wrap.fullscreen .editorcode-view,.editorcode-wrap.fullscreen .editorcode-wrap-view{height:100%;}
+.editorcode-wrap.fullscreen .CodeMirror, .editorcode-wrap.fullscreen .CodeMirror-scroll{max-height:none !important;}
+body.editorcode-fullscreen{overflow:hidden;}
+
+/*border*/
+.editorcode-border{border:1px solid #ccc;}
